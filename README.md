@@ -16,3 +16,12 @@ Approach:
 3. Do (1) and (2) for thousands of scenariors. Determine the boundary conditions interms of the adversarial conditions
 4. Map the adversarial conditions to a known list of device specs.
 5. Recommend the minimum Phone mode;l/make that works under those condtions
+
+
+For Task-1 above, one could use GANs or use openCV image processing techniques, develop custom effects/filters. Or one could also apply GANS or take MNIST, COCO and other datasets and form a libary of images.
+
+For (2), one needs to create/write a simulation engine that generates synthetis data with the desired tags. Almost like a GANs
+
+For (3) One needs can run a decition tree or run a explainable AI technique
+
+For (4), a small database of phones with model/make mapped to its specs is needed.
