@@ -3,18 +3,16 @@ Recommend the minimum device (phone) needed for Computer Vision Tasks
 
 
 Usage:
-Supply clean, background-free images of the objects, a model that does a task on the images, and provide/select a set of adversatial conditions against which the model has to be tested.
 
-Configuration:
-Data: objects that need to be detected in the Application. These objects should be seperated from the background
+Proide (User)
+1. clean, background-free images of the objects, 
+2. a model that does a task on the images. A model here is a function that accepts an Images, outputs success/failure codes. Definition of success/failure is preragative of the model
+3. provide/select a set of adversatial conditions against which the model has to be tested.
 
-Model: A model/function that accepts an Images, outputs success/failure codes. Definition of success/failure is preragative of the model
+Approach:
 
-Data Augmentations:
-Field conditions that need to be tested. For example:
-Images with funcky background, extreme light conditions, de-focussed etc. Any field conditions that are likely to make the Application fail against a device
-Camera resolution is an important parameter. One could be downsampling to render a low-res image for testing low-end phones.
-
-
-Output:
-A list of phone specs that work and that dont work
+1. Take the objects, and compose a syntthetis image with Photoshop-like effects. The photoshop effects should reflect the reality, desribed the user in (3) above
+2. Run the user supplied model against the image. Record fail/pass
+3. Do (1) and (2) for thousands of scenariors. Determine the boundary conditions interms of the adversarial conditions
+4. Map the adversarial conditions to a known list of device specs.
+5. Recommend the minimum Phone mode;l/make that works under those condtions
