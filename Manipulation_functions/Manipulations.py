@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  15 16:02:51 2021
 
-@author: Manikantan and Rajat Mishra
+@author: Manikantan Srinivasan and Rajat Mishra
 """
 
 #importing the neccessary libraries
