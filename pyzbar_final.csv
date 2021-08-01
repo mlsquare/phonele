@@ -1,0 +1,1001 @@
+﻿Color,PPI,Backgrounds,Temperature(Kelvin),Mirror,Flip,Outcome
+Orange,244.6,Black,1000,TRUE,TRUE,success
+Orange,244.6,Black,1000,TRUE,FALSE,failure
+Orange,244.6,Black,1000,FALSE,TRUE,failure
+Orange,244.6,Black,1000,FALSE,FALSE,success
+Orange,244.6,Black,3000,TRUE,TRUE,success
+Orange,244.6,Black,3000,TRUE,FALSE,failure
+Orange,244.6,Black,3000,FALSE,TRUE,failure
+Orange,244.6,Black,3000,FALSE,FALSE,success
+Orange,244.6,Black,5500,TRUE,TRUE,success
+Orange,244.6,Black,5500,TRUE,FALSE,failure
+Orange,244.6,Black,5500,FALSE,TRUE,failure
+Orange,244.6,Black,5500,FALSE,FALSE,success
+Orange,244.6,Black,6500,TRUE,TRUE,success
+Orange,244.6,Black,6500,TRUE,FALSE,failure
+Orange,244.6,Black,6500,FALSE,TRUE,failure
+Orange,244.6,Black,6500,FALSE,FALSE,success
+Orange,244.6,Black,9000,TRUE,TRUE,success
+Orange,244.6,Black,9000,TRUE,FALSE,success
+Orange,244.6,Black,9000,FALSE,TRUE,success
+Orange,244.6,Black,9000,FALSE,FALSE,success
+Orange,244.6,Surrounding,1000,TRUE,TRUE,failure
+Orange,244.6,Surrounding,1000,TRUE,FALSE,failure
+Orange,244.6,Surrounding,1000,FALSE,TRUE,failure
+Orange,244.6,Surrounding,1000,FALSE,FALSE,failure
+Orange,244.6,Surrounding,3000,TRUE,TRUE,failure
+Orange,244.6,Surrounding,3000,TRUE,FALSE,failure
+Orange,244.6,Surrounding,3000,FALSE,TRUE,failure
+Orange,244.6,Surrounding,3000,FALSE,FALSE,failure
+Orange,244.6,Surrounding,5500,TRUE,TRUE,failure
+Orange,244.6,Surrounding,5500,TRUE,FALSE,failure
+Orange,244.6,Surrounding,5500,FALSE,TRUE,failure
+Orange,244.6,Surrounding,5500,FALSE,FALSE,failure
+Orange,244.6,Surrounding,6500,TRUE,TRUE,failure
+Orange,244.6,Surrounding,6500,TRUE,FALSE,failure
+Orange,244.6,Surrounding,6500,FALSE,TRUE,failure
+Orange,244.6,Surrounding,6500,FALSE,FALSE,failure
+Orange,244.6,Surrounding,9000,TRUE,TRUE,failure
+Orange,244.6,Surrounding,9000,TRUE,FALSE,success
+Orange,244.6,Surrounding,9000,FALSE,TRUE,success
+Orange,244.6,Surrounding,9000,FALSE,FALSE,failure
+Orange,244.6,White,1000,TRUE,TRUE,failure
+Orange,244.6,White,1000,TRUE,FALSE,failure
+Orange,244.6,White,1000,FALSE,TRUE,failure
+Orange,244.6,White,1000,FALSE,FALSE,failure
+Orange,244.6,White,3000,TRUE,TRUE,failure
+Orange,244.6,White,3000,TRUE,FALSE,failure
+Orange,244.6,White,3000,FALSE,TRUE,failure
+Orange,244.6,White,3000,FALSE,FALSE,failure
+Orange,244.6,White,5500,TRUE,TRUE,failure
+Orange,244.6,White,5500,TRUE,FALSE,failure
+Orange,244.6,White,5500,FALSE,TRUE,failure
+Orange,244.6,White,5500,FALSE,FALSE,failure
+Orange,244.6,White,6500,TRUE,TRUE,failure
+Orange,244.6,White,6500,TRUE,FALSE,failure
+Orange,244.6,White,6500,FALSE,TRUE,failure
+Orange,244.6,White,6500,FALSE,FALSE,failure
+Orange,244.6,White,9000,TRUE,TRUE,failure
+Orange,244.6,White,9000,TRUE,FALSE,success
+Orange,244.6,White,9000,FALSE,TRUE,success
+Orange,244.6,White,9000,FALSE,FALSE,failure
+Orange,244.6,Striped,1000,TRUE,TRUE,success
+Orange,244.6,Striped,1000,TRUE,FALSE,failure
+Orange,244.6,Striped,1000,FALSE,TRUE,failure
+Orange,244.6,Striped,1000,FALSE,FALSE,success
+Orange,244.6,Striped,3000,TRUE,TRUE,failure
+Orange,244.6,Striped,3000,TRUE,FALSE,failure
+Orange,244.6,Striped,3000,FALSE,TRUE,failure
+Orange,244.6,Striped,3000,FALSE,FALSE,failure
+Orange,244.6,Striped,5500,TRUE,TRUE,failure
+Orange,244.6,Striped,5500,TRUE,FALSE,failure
+Orange,244.6,Striped,5500,FALSE,TRUE,failure
+Orange,244.6,Striped,5500,FALSE,FALSE,failure
+Orange,244.6,Striped,6500,TRUE,TRUE,failure
+Orange,244.6,Striped,6500,TRUE,FALSE,failure
+Orange,244.6,Striped,6500,FALSE,TRUE,failure
+Orange,244.6,Striped,6500,FALSE,FALSE,failure
+Orange,244.6,Striped,9000,TRUE,TRUE,failure
+Orange,244.6,Striped,9000,TRUE,FALSE,success
+Orange,244.6,Striped,9000,FALSE,TRUE,success
+Orange,244.6,Striped,9000,FALSE,FALSE,failure
+Orange,244.6,Absent,1000,TRUE,TRUE,success
+Orange,244.6,Absent,1000,TRUE,FALSE,failure
+Orange,244.6,Absent,1000,FALSE,TRUE,failure
+Orange,244.6,Absent,1000,FALSE,FALSE,success
+Orange,244.6,Absent,3000,TRUE,TRUE,success
+Orange,244.6,Absent,3000,TRUE,FALSE,failure
+Orange,244.6,Absent,3000,FALSE,TRUE,failure
+Orange,244.6,Absent,3000,FALSE,FALSE,success
+Orange,244.6,Absent,5500,TRUE,TRUE,success
+Orange,244.6,Absent,5500,TRUE,FALSE,failure
+Orange,244.6,Absent,5500,FALSE,TRUE,failure
+Orange,244.6,Absent,5500,FALSE,FALSE,success
+Orange,244.6,Absent,6500,TRUE,TRUE,success
+Orange,244.6,Absent,6500,TRUE,FALSE,failure
+Orange,244.6,Absent,6500,FALSE,TRUE,failure
+Orange,244.6,Absent,6500,FALSE,FALSE,success
+Orange,244.6,Absent,9000,TRUE,TRUE,success
+Orange,244.6,Absent,9000,TRUE,FALSE,success
+Orange,244.6,Absent,9000,FALSE,TRUE,success
+Orange,244.6,Absent,9000,FALSE,FALSE,success
+Orange,122.29,Black,1000,TRUE,TRUE,failure
+Orange,122.29,Black,1000,TRUE,FALSE,failure
+Orange,122.29,Black,1000,FALSE,TRUE,failure
+Orange,122.29,Black,1000,FALSE,FALSE,failure
+Orange,122.29,Black,3000,TRUE,TRUE,failure
+Orange,122.29,Black,3000,TRUE,FALSE,failure
+Orange,122.29,Black,3000,FALSE,TRUE,failure
+Orange,122.29,Black,3000,FALSE,FALSE,failure
+Orange,122.29,Black,5500,TRUE,TRUE,failure
+Orange,122.29,Black,5500,TRUE,FALSE,failure
+Orange,122.29,Black,5500,FALSE,TRUE,failure
+Orange,122.29,Black,5500,FALSE,FALSE,failure
+Orange,122.29,Black,6500,TRUE,TRUE,failure
+Orange,122.29,Black,6500,TRUE,FALSE,failure
+Orange,122.29,Black,6500,FALSE,TRUE,failure
+Orange,122.29,Black,6500,FALSE,FALSE,failure
+Orange,122.29,Black,9000,TRUE,TRUE,failure
+Orange,122.29,Black,9000,TRUE,FALSE,failure
+Orange,122.29,Black,9000,FALSE,TRUE,failure
+Orange,122.29,Black,9000,FALSE,FALSE,failure
+Orange,122.29,Surrounding,1000,TRUE,TRUE,failure
+Orange,122.29,Surrounding,1000,TRUE,FALSE,failure
+Orange,122.29,Surrounding,1000,FALSE,TRUE,failure
+Orange,122.29,Surrounding,1000,FALSE,FALSE,failure
+Orange,122.29,Surrounding,3000,TRUE,TRUE,failure
+Orange,122.29,Surrounding,3000,TRUE,FALSE,failure
+Orange,122.29,Surrounding,3000,FALSE,TRUE,failure
+Orange,122.29,Surrounding,3000,FALSE,FALSE,failure
+Orange,122.29,Surrounding,5500,TRUE,TRUE,failure
+Orange,122.29,Surrounding,5500,TRUE,FALSE,failure
+Orange,122.29,Surrounding,5500,FALSE,TRUE,failure
+Orange,122.29,Surrounding,5500,FALSE,FALSE,failure
+Orange,122.29,Surrounding,6500,TRUE,TRUE,failure
+Orange,122.29,Surrounding,6500,TRUE,FALSE,failure
+Orange,122.29,Surrounding,6500,FALSE,TRUE,failure
+Orange,122.29,Surrounding,6500,FALSE,FALSE,failure
+Orange,122.29,Surrounding,9000,TRUE,TRUE,failure
+Orange,122.29,Surrounding,9000,TRUE,FALSE,failure
+Orange,122.29,Surrounding,9000,FALSE,TRUE,failure
+Orange,122.29,Surrounding,9000,FALSE,FALSE,failure
+Orange,122.29,White,1000,TRUE,TRUE,failure
+Orange,122.29,White,1000,TRUE,FALSE,failure
+Orange,122.29,White,1000,FALSE,TRUE,failure
+Orange,122.29,White,1000,FALSE,FALSE,failure
+Orange,122.29,White,3000,TRUE,TRUE,failure
+Orange,122.29,White,3000,TRUE,FALSE,failure
+Orange,122.29,White,3000,FALSE,TRUE,failure
+Orange,122.29,White,3000,FALSE,FALSE,failure
+Orange,122.29,White,5500,TRUE,TRUE,failure
+Orange,122.29,White,5500,TRUE,FALSE,failure
+Orange,122.29,White,5500,FALSE,TRUE,failure
+Orange,122.29,White,5500,FALSE,FALSE,failure
+Orange,122.29,White,6500,TRUE,TRUE,failure
+Orange,122.29,White,6500,TRUE,FALSE,failure
+Orange,122.29,White,6500,FALSE,TRUE,failure
+Orange,122.29,White,6500,FALSE,FALSE,failure
+Orange,122.29,White,9000,TRUE,TRUE,failure
+Orange,122.29,White,9000,TRUE,FALSE,failure
+Orange,122.29,White,9000,FALSE,TRUE,failure
+Orange,122.29,White,9000,FALSE,FALSE,failure
+Orange,122.29,Striped,1000,TRUE,TRUE,failure
+Orange,122.29,Striped,1000,TRUE,FALSE,failure
+Orange,122.29,Striped,1000,FALSE,TRUE,failure
+Orange,122.29,Striped,1000,FALSE,FALSE,failure
+Orange,122.29,Striped,3000,TRUE,TRUE,failure
+Orange,122.29,Striped,3000,TRUE,FALSE,failure
+Orange,122.29,Striped,3000,FALSE,TRUE,failure
+Orange,122.29,Striped,3000,FALSE,FALSE,failure
+Orange,122.29,Striped,5500,TRUE,TRUE,failure
+Orange,122.29,Striped,5500,TRUE,FALSE,failure
+Orange,122.29,Striped,5500,FALSE,TRUE,failure
+Orange,122.29,Striped,5500,FALSE,FALSE,failure
+Orange,122.29,Striped,6500,TRUE,TRUE,failure
+Orange,122.29,Striped,6500,TRUE,FALSE,failure
+Orange,122.29,Striped,6500,FALSE,TRUE,failure
+Orange,122.29,Striped,6500,FALSE,FALSE,failure
+Orange,122.29,Striped,9000,TRUE,TRUE,failure
+Orange,122.29,Striped,9000,TRUE,FALSE,failure
+Orange,122.29,Striped,9000,FALSE,TRUE,failure
+Orange,122.29,Striped,9000,FALSE,FALSE,failure
+Orange,122.29,Absent,1000,TRUE,TRUE,failure
+Orange,122.29,Absent,1000,TRUE,FALSE,failure
+Orange,122.29,Absent,1000,FALSE,TRUE,failure
+Orange,122.29,Absent,1000,FALSE,FALSE,failure
+Orange,122.29,Absent,3000,TRUE,TRUE,failure
+Orange,122.29,Absent,3000,TRUE,FALSE,failure
+Orange,122.29,Absent,3000,FALSE,TRUE,failure
+Orange,122.29,Absent,3000,FALSE,FALSE,failure
+Orange,122.29,Absent,5500,TRUE,TRUE,failure
+Orange,122.29,Absent,5500,TRUE,FALSE,failure
+Orange,122.29,Absent,5500,FALSE,TRUE,failure
+Orange,122.29,Absent,5500,FALSE,FALSE,failure
+Orange,122.29,Absent,6500,TRUE,TRUE,failure
+Orange,122.29,Absent,6500,TRUE,FALSE,failure
+Orange,122.29,Absent,6500,FALSE,TRUE,failure
+Orange,122.29,Absent,6500,FALSE,FALSE,failure
+Orange,122.29,Absent,9000,TRUE,TRUE,failure
+Orange,122.29,Absent,9000,TRUE,FALSE,failure
+Orange,122.29,Absent,9000,FALSE,TRUE,failure
+Orange,122.29,Absent,9000,FALSE,FALSE,failure
+Green,244.62,Black,1000,TRUE,TRUE,success
+Green,244.62,Black,1000,TRUE,FALSE,success
+Green,244.62,Black,1000,FALSE,TRUE,success
+Green,244.62,Black,1000,FALSE,FALSE,success
+Green,244.62,Black,3000,TRUE,TRUE,success
+Green,244.62,Black,3000,TRUE,FALSE,success
+Green,244.62,Black,3000,FALSE,TRUE,success
+Green,244.62,Black,3000,FALSE,FALSE,success
+Green,244.62,Black,5500,TRUE,TRUE,success
+Green,244.62,Black,5500,TRUE,FALSE,success
+Green,244.62,Black,5500,FALSE,TRUE,success
+Green,244.62,Black,5500,FALSE,FALSE,success
+Green,244.62,Black,6500,TRUE,TRUE,success
+Green,244.62,Black,6500,TRUE,FALSE,success
+Green,244.62,Black,6500,FALSE,TRUE,success
+Green,244.62,Black,6500,FALSE,FALSE,success
+Green,244.62,Black,9000,TRUE,TRUE,success
+Green,244.62,Black,9000,TRUE,FALSE,success
+Green,244.62,Black,9000,FALSE,TRUE,success
+Green,244.62,Black,9000,FALSE,FALSE,success
+Green,244.62,Surrounding,1000,TRUE,TRUE,success
+Green,244.62,Surrounding,1000,TRUE,FALSE,success
+Green,244.62,Surrounding,1000,FALSE,TRUE,success
+Green,244.62,Surrounding,1000,FALSE,FALSE,success
+Green,244.62,Surrounding,3000,TRUE,TRUE,success
+Green,244.62,Surrounding,3000,TRUE,FALSE,success
+Green,244.62,Surrounding,3000,FALSE,TRUE,success
+Green,244.62,Surrounding,3000,FALSE,FALSE,success
+Green,244.62,Surrounding,5500,TRUE,TRUE,success
+Green,244.62,Surrounding,5500,TRUE,FALSE,success
+Green,244.62,Surrounding,5500,FALSE,TRUE,success
+Green,244.62,Surrounding,5500,FALSE,FALSE,success
+Green,244.62,Surrounding,6500,TRUE,TRUE,success
+Green,244.62,Surrounding,6500,TRUE,FALSE,success
+Green,244.62,Surrounding,6500,FALSE,TRUE,success
+Green,244.62,Surrounding,6500,FALSE,FALSE,success
+Green,244.62,Surrounding,9000,TRUE,TRUE,success
+Green,244.62,Surrounding,9000,TRUE,FALSE,success
+Green,244.62,Surrounding,9000,FALSE,TRUE,success
+Green,244.62,Surrounding,9000,FALSE,FALSE,success
+Green,244.62,White,1000,TRUE,TRUE,success
+Green,244.62,White,1000,TRUE,FALSE,success
+Green,244.62,White,1000,FALSE,TRUE,success
+Green,244.62,White,1000,FALSE,FALSE,success
+Green,244.62,White,3000,TRUE,TRUE,success
+Green,244.62,White,3000,TRUE,FALSE,success
+Green,244.62,White,3000,FALSE,TRUE,success
+Green,244.62,White,3000,FALSE,FALSE,success
+Green,244.62,White,5500,TRUE,TRUE,success
+Green,244.62,White,5500,TRUE,FALSE,success
+Green,244.62,White,5500,FALSE,TRUE,success
+Green,244.62,White,5500,FALSE,FALSE,success
+Green,244.62,White,6500,TRUE,TRUE,success
+Green,244.62,White,6500,TRUE,FALSE,success
+Green,244.62,White,6500,FALSE,TRUE,success
+Green,244.62,White,6500,FALSE,FALSE,success
+Green,244.62,White,9000,TRUE,TRUE,success
+Green,244.62,White,9000,TRUE,FALSE,success
+Green,244.62,White,9000,FALSE,TRUE,success
+Green,244.62,White,9000,FALSE,FALSE,success
+Green,244.62,Striped,1000,TRUE,TRUE,success
+Green,244.62,Striped,1000,TRUE,FALSE,success
+Green,244.62,Striped,1000,FALSE,TRUE,success
+Green,244.62,Striped,1000,FALSE,FALSE,success
+Green,244.62,Striped,3000,TRUE,TRUE,success
+Green,244.62,Striped,3000,TRUE,FALSE,success
+Green,244.62,Striped,3000,FALSE,TRUE,success
+Green,244.62,Striped,3000,FALSE,FALSE,success
+Green,244.62,Striped,5500,TRUE,TRUE,success
+Green,244.62,Striped,5500,TRUE,FALSE,success
+Green,244.62,Striped,5500,FALSE,TRUE,success
+Green,244.62,Striped,5500,FALSE,FALSE,success
+Green,244.62,Striped,6500,TRUE,TRUE,success
+Green,244.62,Striped,6500,TRUE,FALSE,success
+Green,244.62,Striped,6500,FALSE,TRUE,success
+Green,244.62,Striped,6500,FALSE,FALSE,success
+Green,244.62,Striped,9000,TRUE,TRUE,success
+Green,244.62,Striped,9000,TRUE,FALSE,success
+Green,244.62,Striped,9000,FALSE,TRUE,success
+Green,244.62,Striped,9000,FALSE,FALSE,success
+Green,244.62,Absent,1000,TRUE,TRUE,success
+Green,244.62,Absent,1000,TRUE,FALSE,success
+Green,244.62,Absent,1000,FALSE,TRUE,success
+Green,244.62,Absent,1000,FALSE,FALSE,success
+Green,244.62,Absent,3000,TRUE,TRUE,success
+Green,244.62,Absent,3000,TRUE,FALSE,success
+Green,244.62,Absent,3000,FALSE,TRUE,success
+Green,244.62,Absent,3000,FALSE,FALSE,success
+Green,244.62,Absent,5500,TRUE,TRUE,success
+Green,244.62,Absent,5500,TRUE,FALSE,success
+Green,244.62,Absent,5500,FALSE,TRUE,success
+Green,244.62,Absent,5500,FALSE,FALSE,success
+Green,244.62,Absent,6500,TRUE,TRUE,success
+Green,244.62,Absent,6500,TRUE,FALSE,success
+Green,244.62,Absent,6500,FALSE,TRUE,success
+Green,244.62,Absent,6500,FALSE,FALSE,success
+Green,244.62,Absent,9000,TRUE,TRUE,success
+Green,244.62,Absent,9000,TRUE,FALSE,success
+Green,244.62,Absent,9000,FALSE,TRUE,success
+Green,244.62,Absent,9000,FALSE,FALSE,success
+Green,122.31,Black,1000,TRUE,TRUE,success
+Green,122.31,Black,1000,TRUE,FALSE,success
+Green,122.31,Black,1000,FALSE,TRUE,success
+Green,122.31,Black,1000,FALSE,FALSE,success
+Green,122.31,Black,3000,TRUE,TRUE,success
+Green,122.31,Black,3000,TRUE,FALSE,success
+Green,122.31,Black,3000,FALSE,TRUE,success
+Green,122.31,Black,3000,FALSE,FALSE,success
+Green,122.31,Black,5500,TRUE,TRUE,success
+Green,122.31,Black,5500,TRUE,FALSE,success
+Green,122.31,Black,5500,FALSE,TRUE,success
+Green,122.31,Black,5500,FALSE,FALSE,success
+Green,122.31,Black,6500,TRUE,TRUE,success
+Green,122.31,Black,6500,TRUE,FALSE,success
+Green,122.31,Black,6500,FALSE,TRUE,success
+Green,122.31,Black,6500,FALSE,FALSE,success
+Green,122.31,Black,9000,TRUE,TRUE,success
+Green,122.31,Black,9000,TRUE,FALSE,success
+Green,122.31,Black,9000,FALSE,TRUE,success
+Green,122.31,Black,9000,FALSE,FALSE,success
+Green,122.31,Surrounding,1000,TRUE,TRUE,success
+Green,122.31,Surrounding,1000,TRUE,FALSE,success
+Green,122.31,Surrounding,1000,FALSE,TRUE,success
+Green,122.31,Surrounding,1000,FALSE,FALSE,success
+Green,122.31,Surrounding,3000,TRUE,TRUE,success
+Green,122.31,Surrounding,3000,TRUE,FALSE,success
+Green,122.31,Surrounding,3000,FALSE,TRUE,success
+Green,122.31,Surrounding,3000,FALSE,FALSE,success
+Green,122.31,Surrounding,5500,TRUE,TRUE,success
+Green,122.31,Surrounding,5500,TRUE,FALSE,success
+Green,122.31,Surrounding,5500,FALSE,TRUE,success
+Green,122.31,Surrounding,5500,FALSE,FALSE,success
+Green,122.31,Surrounding,6500,TRUE,TRUE,success
+Green,122.31,Surrounding,6500,TRUE,FALSE,success
+Green,122.31,Surrounding,6500,FALSE,TRUE,success
+Green,122.31,Surrounding,6500,FALSE,FALSE,success
+Green,122.31,Surrounding,9000,TRUE,TRUE,success
+Green,122.31,Surrounding,9000,TRUE,FALSE,success
+Green,122.31,Surrounding,9000,FALSE,TRUE,success
+Green,122.31,Surrounding,9000,FALSE,FALSE,success
+Green,122.31,White,1000,TRUE,TRUE,success
+Green,122.31,White,1000,TRUE,FALSE,success
+Green,122.31,White,1000,FALSE,TRUE,success
+Green,122.31,White,1000,FALSE,FALSE,success
+Green,122.31,White,3000,TRUE,TRUE,success
+Green,122.31,White,3000,TRUE,FALSE,success
+Green,122.31,White,3000,FALSE,TRUE,success
+Green,122.31,White,3000,FALSE,FALSE,success
+Green,122.31,White,5500,TRUE,TRUE,success
+Green,122.31,White,5500,TRUE,FALSE,success
+Green,122.31,White,5500,FALSE,TRUE,success
+Green,122.31,White,5500,FALSE,FALSE,success
+Green,122.31,White,6500,TRUE,TRUE,success
+Green,122.31,White,6500,TRUE,FALSE,success
+Green,122.31,White,6500,FALSE,TRUE,success
+Green,122.31,White,6500,FALSE,FALSE,success
+Green,122.31,White,9000,TRUE,TRUE,success
+Green,122.31,White,9000,TRUE,FALSE,success
+Green,122.31,White,9000,FALSE,TRUE,success
+Green,122.31,White,9000,FALSE,FALSE,success
+Green,122.31,Striped,1000,TRUE,TRUE,success
+Green,122.31,Striped,1000,TRUE,FALSE,success
+Green,122.31,Striped,1000,FALSE,TRUE,success
+Green,122.31,Striped,1000,FALSE,FALSE,success
+Green,122.31,Striped,3000,TRUE,TRUE,success
+Green,122.31,Striped,3000,TRUE,FALSE,success
+Green,122.31,Striped,3000,FALSE,TRUE,success
+Green,122.31,Striped,3000,FALSE,FALSE,success
+Green,122.31,Striped,5500,TRUE,TRUE,success
+Green,122.31,Striped,5500,TRUE,FALSE,success
+Green,122.31,Striped,5500,FALSE,TRUE,success
+Green,122.31,Striped,5500,FALSE,FALSE,success
+Green,122.31,Striped,6500,TRUE,TRUE,success
+Green,122.31,Striped,6500,TRUE,FALSE,success
+Green,122.31,Striped,6500,FALSE,TRUE,success
+Green,122.31,Striped,6500,FALSE,FALSE,success
+Green,122.31,Striped,9000,TRUE,TRUE,success
+Green,122.31,Striped,9000,TRUE,FALSE,success
+Green,122.31,Striped,9000,FALSE,TRUE,success
+Green,122.31,Striped,9000,FALSE,FALSE,success
+Green,122.31,Absent,1000,TRUE,TRUE,success
+Green,122.31,Absent,1000,TRUE,FALSE,success
+Green,122.31,Absent,1000,FALSE,TRUE,success
+Green,122.31,Absent,1000,FALSE,FALSE,success
+Green,122.31,Absent,3000,TRUE,TRUE,success
+Green,122.31,Absent,3000,TRUE,FALSE,success
+Green,122.31,Absent,3000,FALSE,TRUE,success
+Green,122.31,Absent,3000,FALSE,FALSE,success
+Green,122.31,Absent,5500,TRUE,TRUE,success
+Green,122.31,Absent,5500,TRUE,FALSE,success
+Green,122.31,Absent,5500,FALSE,TRUE,success
+Green,122.31,Absent,5500,FALSE,FALSE,success
+Green,122.31,Absent,6500,TRUE,TRUE,success
+Green,122.31,Absent,6500,TRUE,FALSE,success
+Green,122.31,Absent,6500,FALSE,TRUE,success
+Green,122.31,Absent,6500,FALSE,FALSE,success
+Green,122.31,Absent,9000,TRUE,TRUE,success
+Green,122.31,Absent,9000,TRUE,FALSE,success
+Green,122.31,Absent,9000,FALSE,TRUE,success
+Green,122.31,Absent,9000,FALSE,FALSE,success
+Green,81.53,Black,1000,TRUE,TRUE,failure
+Green,81.53,Black,1000,TRUE,FALSE,failure
+Green,81.53,Black,1000,FALSE,TRUE,failure
+Green,81.53,Black,1000,FALSE,FALSE,failure
+Green,81.53,Black,3000,TRUE,TRUE,failure
+Green,81.53,Black,3000,TRUE,FALSE,failure
+Green,81.53,Black,3000,FALSE,TRUE,failure
+Green,81.53,Black,3000,FALSE,FALSE,failure
+Green,81.53,Black,5500,TRUE,TRUE,failure
+Green,81.53,Black,5500,TRUE,FALSE,failure
+Green,81.53,Black,5500,FALSE,TRUE,failure
+Green,81.53,Black,5500,FALSE,FALSE,failure
+Green,81.53,Black,6500,TRUE,TRUE,failure
+Green,81.53,Black,6500,TRUE,FALSE,failure
+Green,81.53,Black,6500,FALSE,TRUE,failure
+Green,81.53,Black,6500,FALSE,FALSE,failure
+Green,81.53,Black,9000,TRUE,TRUE,failure
+Green,81.53,Black,9000,TRUE,FALSE,failure
+Green,81.53,Black,9000,FALSE,TRUE,failure
+Green,81.53,Black,9000,FALSE,FALSE,failure
+Green,81.53,Surrounding,1000,TRUE,TRUE,failure
+Green,81.53,Surrounding,1000,TRUE,FALSE,failure
+Green,81.53,Surrounding,1000,FALSE,TRUE,failure
+Green,81.53,Surrounding,1000,FALSE,FALSE,failure
+Green,81.53,Surrounding,3000,TRUE,TRUE,failure
+Green,81.53,Surrounding,3000,TRUE,FALSE,failure
+Green,81.53,Surrounding,3000,FALSE,TRUE,failure
+Green,81.53,Surrounding,3000,FALSE,FALSE,failure
+Green,81.53,Surrounding,5500,TRUE,TRUE,failure
+Green,81.53,Surrounding,5500,TRUE,FALSE,failure
+Green,81.53,Surrounding,5500,FALSE,TRUE,failure
+Green,81.53,Surrounding,5500,FALSE,FALSE,failure
+Green,81.53,Surrounding,6500,TRUE,TRUE,failure
+Green,81.53,Surrounding,6500,TRUE,FALSE,failure
+Green,81.53,Surrounding,6500,FALSE,TRUE,failure
+Green,81.53,Surrounding,6500,FALSE,FALSE,failure
+Green,81.53,Surrounding,9000,TRUE,TRUE,failure
+Green,81.53,Surrounding,9000,TRUE,FALSE,failure
+Green,81.53,Surrounding,9000,FALSE,TRUE,failure
+Green,81.53,Surrounding,9000,FALSE,FALSE,failure
+Green,81.53,White,1000,TRUE,TRUE,failure
+Green,81.53,White,1000,TRUE,FALSE,failure
+Green,81.53,White,1000,FALSE,TRUE,failure
+Green,81.53,White,1000,FALSE,FALSE,failure
+Green,81.53,White,3000,TRUE,TRUE,failure
+Green,81.53,White,3000,TRUE,FALSE,failure
+Green,81.53,White,3000,FALSE,TRUE,failure
+Green,81.53,White,3000,FALSE,FALSE,failure
+Green,81.53,White,5500,TRUE,TRUE,failure
+Green,81.53,White,5500,TRUE,FALSE,failure
+Green,81.53,White,5500,FALSE,TRUE,failure
+Green,81.53,White,5500,FALSE,FALSE,failure
+Green,81.53,White,6500,TRUE,TRUE,failure
+Green,81.53,White,6500,TRUE,FALSE,failure
+Green,81.53,White,6500,FALSE,TRUE,failure
+Green,81.53,White,6500,FALSE,FALSE,failure
+Green,81.53,White,9000,TRUE,TRUE,failure
+Green,81.53,White,9000,TRUE,FALSE,failure
+Green,81.53,White,9000,FALSE,TRUE,failure
+Green,81.53,White,9000,FALSE,FALSE,failure
+Green,81.53,Striped,1000,TRUE,TRUE,failure
+Green,81.53,Striped,1000,TRUE,FALSE,failure
+Green,81.53,Striped,1000,FALSE,TRUE,failure
+Green,81.53,Striped,1000,FALSE,FALSE,failure
+Green,81.53,Striped,3000,TRUE,TRUE,failure
+Green,81.53,Striped,3000,TRUE,FALSE,failure
+Green,81.53,Striped,3000,FALSE,TRUE,failure
+Green,81.53,Striped,3000,FALSE,FALSE,failure
+Green,81.53,Striped,5500,TRUE,TRUE,failure
+Green,81.53,Striped,5500,TRUE,FALSE,failure
+Green,81.53,Striped,5500,FALSE,TRUE,failure
+Green,81.53,Striped,5500,FALSE,FALSE,failure
+Green,81.53,Striped,6500,TRUE,TRUE,failure
+Green,81.53,Striped,6500,TRUE,FALSE,failure
+Green,81.53,Striped,6500,FALSE,TRUE,failure
+Green,81.53,Striped,6500,FALSE,FALSE,failure
+Green,81.53,Striped,9000,TRUE,TRUE,failure
+Green,81.53,Striped,9000,TRUE,FALSE,failure
+Green,81.53,Striped,9000,FALSE,TRUE,failure
+Green,81.53,Striped,9000,FALSE,FALSE,failure
+Green,81.53,Absent,1000,TRUE,TRUE,failure
+Green,81.53,Absent,1000,TRUE,FALSE,failure
+Green,81.53,Absent,1000,FALSE,TRUE,failure
+Green,81.53,Absent,1000,FALSE,FALSE,failure
+Green,81.53,Absent,3000,TRUE,TRUE,failure
+Green,81.53,Absent,3000,TRUE,FALSE,failure
+Green,81.53,Absent,3000,FALSE,TRUE,failure
+Green,81.53,Absent,3000,FALSE,FALSE,failure
+Green,81.53,Absent,5500,TRUE,TRUE,failure
+Green,81.53,Absent,5500,TRUE,FALSE,failure
+Green,81.53,Absent,5500,FALSE,TRUE,failure
+Green,81.53,Absent,5500,FALSE,FALSE,failure
+Green,81.53,Absent,6500,TRUE,TRUE,failure
+Green,81.53,Absent,6500,TRUE,FALSE,failure
+Green,81.53,Absent,6500,FALSE,TRUE,failure
+Green,81.53,Absent,6500,FALSE,FALSE,failure
+Green,81.53,Absent,9000,TRUE,TRUE,failure
+Green,81.53,Absent,9000,TRUE,FALSE,failure
+Green,81.53,Absent,9000,FALSE,TRUE,failure
+Green,81.53,Absent,9000,FALSE,FALSE,failure
+Light green,770.76,Black,1000,TRUE,TRUE,success
+Light green,770.76,Black,1000,TRUE,FALSE,success
+Light green,770.76,Black,1000,FALSE,TRUE,success
+Light green,770.76,Black,1000,FALSE,FALSE,success
+Light green,770.76,Black,3000,TRUE,TRUE,success
+Light green,770.76,Black,3000,TRUE,FALSE,success
+Light green,770.76,Black,3000,FALSE,TRUE,success
+Light green,770.76,Black,3000,FALSE,FALSE,success
+Light green,770.76,Black,5500,TRUE,TRUE,success
+Light green,770.76,Black,5500,TRUE,FALSE,success
+Light green,770.76,Black,5500,FALSE,TRUE,success
+Light green,770.76,Black,5500,FALSE,FALSE,success
+Light green,770.76,Black,6500,TRUE,TRUE,success
+Light green,770.76,Black,6500,TRUE,FALSE,success
+Light green,770.76,Black,6500,FALSE,TRUE,success
+Light green,770.76,Black,6500,FALSE,FALSE,success
+Light green,770.76,Black,9000,TRUE,TRUE,success
+Light green,770.76,Black,9000,TRUE,FALSE,success
+Light green,770.76,Black,9000,FALSE,TRUE,success
+Light green,770.76,Black,9000,FALSE,FALSE,success
+Light green,770.76,Surrounding,1000,TRUE,TRUE,success
+Light green,770.76,Surrounding,1000,TRUE,FALSE,success
+Light green,770.76,Surrounding,1000,FALSE,TRUE,success
+Light green,770.76,Surrounding,1000,FALSE,FALSE,success
+Light green,770.76,Surrounding,3000,TRUE,TRUE,success
+Light green,770.76,Surrounding,3000,TRUE,FALSE,success
+Light green,770.76,Surrounding,3000,FALSE,TRUE,success
+Light green,770.76,Surrounding,3000,FALSE,FALSE,success
+Light green,770.76,Surrounding,5500,TRUE,TRUE,success
+Light green,770.76,Surrounding,5500,TRUE,FALSE,success
+Light green,770.76,Surrounding,5500,FALSE,TRUE,success
+Light green,770.76,Surrounding,5500,FALSE,FALSE,success
+Light green,770.76,Surrounding,6500,TRUE,TRUE,success
+Light green,770.76,Surrounding,6500,TRUE,FALSE,success
+Light green,770.76,Surrounding,6500,FALSE,TRUE,success
+Light green,770.76,Surrounding,6500,FALSE,FALSE,success
+Light green,770.76,Surrounding,9000,TRUE,TRUE,success
+Light green,770.76,Surrounding,9000,TRUE,FALSE,success
+Light green,770.76,Surrounding,9000,FALSE,TRUE,success
+Light green,770.76,Surrounding,9000,FALSE,FALSE,success
+Light green,770.76,White,1000,TRUE,TRUE,success
+Light green,770.76,White,1000,TRUE,FALSE,success
+Light green,770.76,White,1000,FALSE,TRUE,success
+Light green,770.76,White,1000,FALSE,FALSE,success
+Light green,770.76,White,3000,TRUE,TRUE,success
+Light green,770.76,White,3000,TRUE,FALSE,success
+Light green,770.76,White,3000,FALSE,TRUE,success
+Light green,770.76,White,3000,FALSE,FALSE,success
+Light green,770.76,White,5500,TRUE,TRUE,success
+Light green,770.76,White,5500,TRUE,FALSE,success
+Light green,770.76,White,5500,FALSE,TRUE,success
+Light green,770.76,White,5500,FALSE,FALSE,success
+Light green,770.76,White,6500,TRUE,TRUE,success
+Light green,770.76,White,6500,TRUE,FALSE,success
+Light green,770.76,White,6500,FALSE,TRUE,success
+Light green,770.76,White,6500,FALSE,FALSE,success
+Light green,770.76,White,9000,TRUE,TRUE,success
+Light green,770.76,White,9000,TRUE,FALSE,success
+Light green,770.76,White,9000,FALSE,TRUE,success
+Light green,770.76,White,9000,FALSE,FALSE,success
+Light green,770.76,Striped,1000,TRUE,TRUE,success
+Light green,770.76,Striped,1000,TRUE,FALSE,success
+Light green,770.76,Striped,1000,FALSE,TRUE,success
+Light green,770.76,Striped,1000,FALSE,FALSE,success
+Light green,770.76,Striped,3000,TRUE,TRUE,success
+Light green,770.76,Striped,3000,TRUE,FALSE,success
+Light green,770.76,Striped,3000,FALSE,TRUE,success
+Light green,770.76,Striped,3000,FALSE,FALSE,success
+Light green,770.76,Striped,5500,TRUE,TRUE,success
+Light green,770.76,Striped,5500,TRUE,FALSE,success
+Light green,770.76,Striped,5500,FALSE,TRUE,success
+Light green,770.76,Striped,5500,FALSE,FALSE,success
+Light green,770.76,Striped,6500,TRUE,TRUE,success
+Light green,770.76,Striped,6500,TRUE,FALSE,success
+Light green,770.76,Striped,6500,FALSE,TRUE,success
+Light green,770.76,Striped,6500,FALSE,FALSE,success
+Light green,770.76,Striped,9000,TRUE,TRUE,success
+Light green,770.76,Striped,9000,TRUE,FALSE,success
+Light green,770.76,Striped,9000,FALSE,TRUE,success
+Light green,770.76,Striped,9000,FALSE,FALSE,success
+Light green,770.76,Absent,1000,TRUE,TRUE,success
+Light green,770.76,Absent,1000,TRUE,FALSE,success
+Light green,770.76,Absent,1000,FALSE,TRUE,success
+Light green,770.76,Absent,1000,FALSE,FALSE,success
+Light green,770.76,Absent,3000,TRUE,TRUE,success
+Light green,770.76,Absent,3000,TRUE,FALSE,success
+Light green,770.76,Absent,3000,FALSE,TRUE,success
+Light green,770.76,Absent,3000,FALSE,FALSE,success
+Light green,770.76,Absent,5500,TRUE,TRUE,success
+Light green,770.76,Absent,5500,TRUE,FALSE,success
+Light green,770.76,Absent,5500,FALSE,TRUE,success
+Light green,770.76,Absent,5500,FALSE,FALSE,success
+Light green,770.76,Absent,6500,TRUE,TRUE,success
+Light green,770.76,Absent,6500,TRUE,FALSE,success
+Light green,770.76,Absent,6500,FALSE,TRUE,success
+Light green,770.76,Absent,6500,FALSE,FALSE,success
+Light green,770.76,Absent,9000,TRUE,TRUE,success
+Light green,770.76,Absent,9000,TRUE,FALSE,success
+Light green,770.76,Absent,9000,FALSE,TRUE,success
+Light green,770.76,Absent,9000,FALSE,FALSE,success
+Light green,385.38,Black,1000,TRUE,TRUE,success
+Light green,385.38,Black,1000,TRUE,FALSE,success
+Light green,385.38,Black,1000,FALSE,TRUE,success
+Light green,385.38,Black,1000,FALSE,FALSE,success
+Light green,385.38,Black,3000,TRUE,TRUE,success
+Light green,385.38,Black,3000,TRUE,FALSE,success
+Light green,385.38,Black,3000,FALSE,TRUE,success
+Light green,385.38,Black,3000,FALSE,FALSE,success
+Light green,385.38,Black,5500,TRUE,TRUE,success
+Light green,385.38,Black,5500,TRUE,FALSE,success
+Light green,385.38,Black,5500,FALSE,TRUE,success
+Light green,385.38,Black,5500,FALSE,FALSE,success
+Light green,385.38,Black,6500,TRUE,TRUE,success
+Light green,385.38,Black,6500,TRUE,FALSE,success
+Light green,385.38,Black,6500,FALSE,TRUE,success
+Light green,385.38,Black,6500,FALSE,FALSE,success
+Light green,385.38,Black,9000,TRUE,TRUE,success
+Light green,385.38,Black,9000,TRUE,FALSE,success
+Light green,385.38,Black,9000,FALSE,TRUE,success
+Light green,385.38,Black,9000,FALSE,FALSE,success
+Light green,385.38,Surrounding,1000,TRUE,TRUE,success
+Light green,385.38,Surrounding,1000,TRUE,FALSE,success
+Light green,385.38,Surrounding,1000,FALSE,TRUE,success
+Light green,385.38,Surrounding,1000,FALSE,FALSE,success
+Light green,385.38,Surrounding,3000,TRUE,TRUE,success
+Light green,385.38,Surrounding,3000,TRUE,FALSE,success
+Light green,385.38,Surrounding,3000,FALSE,TRUE,success
+Light green,385.38,Surrounding,3000,FALSE,FALSE,success
+Light green,385.38,Surrounding,5500,TRUE,TRUE,success
+Light green,385.38,Surrounding,5500,TRUE,FALSE,success
+Light green,385.38,Surrounding,5500,FALSE,TRUE,success
+Light green,385.38,Surrounding,5500,FALSE,FALSE,success
+Light green,385.38,Surrounding,6500,TRUE,TRUE,success
+Light green,385.38,Surrounding,6500,TRUE,FALSE,success
+Light green,385.38,Surrounding,6500,FALSE,TRUE,success
+Light green,385.38,Surrounding,6500,FALSE,FALSE,success
+Light green,385.38,Surrounding,9000,TRUE,TRUE,success
+Light green,385.38,Surrounding,9000,TRUE,FALSE,success
+Light green,385.38,Surrounding,9000,FALSE,TRUE,success
+Light green,385.38,Surrounding,9000,FALSE,FALSE,success
+Light green,385.38,White,1000,TRUE,TRUE,success
+Light green,385.38,White,1000,TRUE,FALSE,success
+Light green,385.38,White,1000,FALSE,TRUE,success
+Light green,385.38,White,1000,FALSE,FALSE,success
+Light green,385.38,White,3000,TRUE,TRUE,success
+Light green,385.38,White,3000,TRUE,FALSE,success
+Light green,385.38,White,3000,FALSE,TRUE,success
+Light green,385.38,White,3000,FALSE,FALSE,success
+Light green,385.38,White,5500,TRUE,TRUE,success
+Light green,385.38,White,5500,TRUE,FALSE,success
+Light green,385.38,White,5500,FALSE,TRUE,success
+Light green,385.38,White,5500,FALSE,FALSE,success
+Light green,385.38,White,6500,TRUE,TRUE,success
+Light green,385.38,White,6500,TRUE,FALSE,success
+Light green,385.38,White,6500,FALSE,TRUE,success
+Light green,385.38,White,6500,FALSE,FALSE,success
+Light green,385.38,White,9000,TRUE,TRUE,success
+Light green,385.38,White,9000,TRUE,FALSE,success
+Light green,385.38,White,9000,FALSE,TRUE,success
+Light green,385.38,White,9000,FALSE,FALSE,success
+Light green,385.38,Striped,1000,TRUE,TRUE,success
+Light green,385.38,Striped,1000,TRUE,FALSE,success
+Light green,385.38,Striped,1000,FALSE,TRUE,success
+Light green,385.38,Striped,1000,FALSE,FALSE,success
+Light green,385.38,Striped,3000,TRUE,TRUE,success
+Light green,385.38,Striped,3000,TRUE,FALSE,success
+Light green,385.38,Striped,3000,FALSE,TRUE,success
+Light green,385.38,Striped,3000,FALSE,FALSE,success
+Light green,385.38,Striped,5500,TRUE,TRUE,success
+Light green,385.38,Striped,5500,TRUE,FALSE,success
+Light green,385.38,Striped,5500,FALSE,TRUE,success
+Light green,385.38,Striped,5500,FALSE,FALSE,success
+Light green,385.38,Striped,6500,TRUE,TRUE,success
+Light green,385.38,Striped,6500,TRUE,FALSE,success
+Light green,385.38,Striped,6500,FALSE,TRUE,success
+Light green,385.38,Striped,6500,FALSE,FALSE,success
+Light green,385.38,Striped,9000,TRUE,TRUE,success
+Light green,385.38,Striped,9000,TRUE,FALSE,success
+Light green,385.38,Striped,9000,FALSE,TRUE,success
+Light green,385.38,Striped,9000,FALSE,FALSE,success
+Light green,385.38,Absent,1000,TRUE,TRUE,success
+Light green,385.38,Absent,1000,TRUE,FALSE,success
+Light green,385.38,Absent,1000,FALSE,TRUE,success
+Light green,385.38,Absent,1000,FALSE,FALSE,success
+Light green,385.38,Absent,3000,TRUE,TRUE,success
+Light green,385.38,Absent,3000,TRUE,FALSE,success
+Light green,385.38,Absent,3000,FALSE,TRUE,success
+Light green,385.38,Absent,3000,FALSE,FALSE,success
+Light green,385.38,Absent,5500,TRUE,TRUE,success
+Light green,385.38,Absent,5500,TRUE,FALSE,success
+Light green,385.38,Absent,5500,FALSE,TRUE,success
+Light green,385.38,Absent,5500,FALSE,FALSE,success
+Light green,385.38,Absent,6500,TRUE,TRUE,success
+Light green,385.38,Absent,6500,TRUE,FALSE,success
+Light green,385.38,Absent,6500,FALSE,TRUE,success
+Light green,385.38,Absent,6500,FALSE,FALSE,success
+Light green,385.38,Absent,9000,TRUE,TRUE,success
+Light green,385.38,Absent,9000,TRUE,FALSE,success
+Light green,385.38,Absent,9000,FALSE,TRUE,success
+Light green,385.38,Absent,9000,FALSE,FALSE,success
+Light green,256.92,Black,1000,TRUE,TRUE,failure
+Light green,256.92,Black,1000,TRUE,FALSE,failure
+Light green,256.92,Black,1000,FALSE,TRUE,failure
+Light green,256.92,Black,1000,FALSE,FALSE,failure
+Light green,256.92,Black,3000,TRUE,TRUE,failure
+Light green,256.92,Black,3000,TRUE,FALSE,failure
+Light green,256.92,Black,3000,FALSE,TRUE,failure
+Light green,256.92,Black,3000,FALSE,FALSE,failure
+Light green,256.92,Black,5500,TRUE,TRUE,failure
+Light green,256.92,Black,5500,TRUE,FALSE,failure
+Light green,256.92,Black,5500,FALSE,TRUE,failure
+Light green,256.92,Black,5500,FALSE,FALSE,failure
+Light green,256.92,Black,6500,TRUE,TRUE,failure
+Light green,256.92,Black,6500,TRUE,FALSE,failure
+Light green,256.92,Black,6500,FALSE,TRUE,failure
+Light green,256.92,Black,6500,FALSE,FALSE,failure
+Light green,256.92,Black,9000,TRUE,TRUE,failure
+Light green,256.92,Black,9000,TRUE,FALSE,failure
+Light green,256.92,Black,9000,FALSE,TRUE,failure
+Light green,256.92,Black,9000,FALSE,FALSE,failure
+Light green,256.92,Surrounding,1000,TRUE,TRUE,failure
+Light green,256.92,Surrounding,1000,TRUE,FALSE,failure
+Light green,256.92,Surrounding,1000,FALSE,TRUE,failure
+Light green,256.92,Surrounding,1000,FALSE,FALSE,failure
+Light green,256.92,Surrounding,3000,TRUE,TRUE,failure
+Light green,256.92,Surrounding,3000,TRUE,FALSE,failure
+Light green,256.92,Surrounding,3000,FALSE,TRUE,failure
+Light green,256.92,Surrounding,3000,FALSE,FALSE,failure
+Light green,256.92,Surrounding,5500,TRUE,TRUE,failure
+Light green,256.92,Surrounding,5500,TRUE,FALSE,failure
+Light green,256.92,Surrounding,5500,FALSE,TRUE,failure
+Light green,256.92,Surrounding,5500,FALSE,FALSE,failure
+Light green,256.92,Surrounding,6500,TRUE,TRUE,failure
+Light green,256.92,Surrounding,6500,TRUE,FALSE,failure
+Light green,256.92,Surrounding,6500,FALSE,TRUE,failure
+Light green,256.92,Surrounding,6500,FALSE,FALSE,failure
+Light green,256.92,Surrounding,9000,TRUE,TRUE,failure
+Light green,256.92,Surrounding,9000,TRUE,FALSE,failure
+Light green,256.92,Surrounding,9000,FALSE,TRUE,failure
+Light green,256.92,Surrounding,9000,FALSE,FALSE,failure
+Light green,256.92,White,1000,TRUE,TRUE,failure
+Light green,256.92,White,1000,TRUE,FALSE,failure
+Light green,256.92,White,1000,FALSE,TRUE,failure
+Light green,256.92,White,1000,FALSE,FALSE,failure
+Light green,256.92,White,3000,TRUE,TRUE,failure
+Light green,256.92,White,3000,TRUE,FALSE,failure
+Light green,256.92,White,3000,FALSE,TRUE,failure
+Light green,256.92,White,3000,FALSE,FALSE,failure
+Light green,256.92,White,5500,TRUE,TRUE,failure
+Light green,256.92,White,5500,TRUE,FALSE,failure
+Light green,256.92,White,5500,FALSE,TRUE,failure
+Light green,256.92,White,5500,FALSE,FALSE,failure
+Light green,256.92,White,6500,TRUE,TRUE,failure
+Light green,256.92,White,6500,TRUE,FALSE,failure
+Light green,256.92,White,6500,FALSE,TRUE,failure
+Light green,256.92,White,6500,FALSE,FALSE,failure
+Light green,256.92,White,9000,TRUE,TRUE,failure
+Light green,256.92,White,9000,TRUE,FALSE,failure
+Light green,256.92,White,9000,FALSE,TRUE,failure
+Light green,256.92,White,9000,FALSE,FALSE,failure
+Light green,256.92,Striped,1000,TRUE,TRUE,failure
+Light green,256.92,Striped,1000,TRUE,FALSE,failure
+Light green,256.92,Striped,1000,FALSE,TRUE,failure
+Light green,256.92,Striped,1000,FALSE,FALSE,failure
+Light green,256.92,Striped,3000,TRUE,TRUE,failure
+Light green,256.92,Striped,3000,TRUE,FALSE,failure
+Light green,256.92,Striped,3000,FALSE,TRUE,failure
+Light green,256.92,Striped,3000,FALSE,FALSE,failure
+Light green,256.92,Striped,5500,TRUE,TRUE,failure
+Light green,256.92,Striped,5500,TRUE,FALSE,failure
+Light green,256.92,Striped,5500,FALSE,TRUE,failure
+Light green,256.92,Striped,5500,FALSE,FALSE,failure
+Light green,256.92,Striped,6500,TRUE,TRUE,failure
+Light green,256.92,Striped,6500,TRUE,FALSE,failure
+Light green,256.92,Striped,6500,FALSE,TRUE,failure
+Light green,256.92,Striped,6500,FALSE,FALSE,failure
+Light green,256.92,Striped,9000,TRUE,TRUE,failure
+Light green,256.92,Striped,9000,TRUE,FALSE,failure
+Light green,256.92,Striped,9000,FALSE,TRUE,failure
+Light green,256.92,Striped,9000,FALSE,FALSE,failure
+Light green,256.92,Absent,1000,TRUE,TRUE,failure
+Light green,256.92,Absent,1000,TRUE,FALSE,failure
+Light green,256.92,Absent,1000,FALSE,TRUE,failure
+Light green,256.92,Absent,1000,FALSE,FALSE,failure
+Light green,256.92,Absent,3000,TRUE,TRUE,failure
+Light green,256.92,Absent,3000,TRUE,FALSE,failure
+Light green,256.92,Absent,3000,FALSE,TRUE,failure
+Light green,256.92,Absent,3000,FALSE,FALSE,failure
+Light green,256.92,Absent,5500,TRUE,TRUE,failure
+Light green,256.92,Absent,5500,TRUE,FALSE,failure
+Light green,256.92,Absent,5500,FALSE,TRUE,failure
+Light green,256.92,Absent,5500,FALSE,FALSE,failure
+Light green,256.92,Absent,6500,TRUE,TRUE,failure
+Light green,256.92,Absent,6500,TRUE,FALSE,failure
+Light green,256.92,Absent,6500,FALSE,TRUE,failure
+Light green,256.92,Absent,6500,FALSE,FALSE,failure
+Light green,256.92,Absent,9000,TRUE,TRUE,failure
+Light green,256.92,Absent,9000,TRUE,FALSE,failure
+Light green,256.92,Absent,9000,FALSE,TRUE,failure
+Light green,256.92,Absent,9000,FALSE,FALSE,failure
+Transparent,244.48,Black,1000,TRUE,TRUE,success
+Transparent,244.48,Black,1000,TRUE,FALSE,failure
+Transparent,244.48,Black,1000,FALSE,TRUE,failure
+Transparent,244.48,Black,1000,FALSE,FALSE,success
+Transparent,244.48,Black,3000,TRUE,TRUE,failure
+Transparent,244.48,Black,3000,TRUE,FALSE,failure
+Transparent,244.48,Black,3000,FALSE,TRUE,failure
+Transparent,244.48,Black,3000,FALSE,FALSE,failure
+Transparent,244.48,Black,5500,TRUE,TRUE,success
+Transparent,244.48,Black,5500,TRUE,FALSE,failure
+Transparent,244.48,Black,5500,FALSE,TRUE,failure
+Transparent,244.48,Black,5500,FALSE,FALSE,success
+Transparent,244.48,Black,6500,TRUE,TRUE,success
+Transparent,244.48,Black,6500,TRUE,FALSE,failure
+Transparent,244.48,Black,6500,FALSE,TRUE,failure
+Transparent,244.48,Black,6500,FALSE,FALSE,success
+Transparent,244.48,Black,9000,TRUE,TRUE,success
+Transparent,244.48,Black,9000,TRUE,FALSE,failure
+Transparent,244.48,Black,9000,FALSE,TRUE,failure
+Transparent,244.48,Black,9000,FALSE,FALSE,success
+Transparent,244.48,Surrounding,1000,TRUE,TRUE,success
+Transparent,244.48,Surrounding,1000,TRUE,FALSE,failure
+Transparent,244.48,Surrounding,1000,FALSE,TRUE,failure
+Transparent,244.48,Surrounding,1000,FALSE,FALSE,success
+Transparent,244.48,Surrounding,3000,TRUE,TRUE,failure
+Transparent,244.48,Surrounding,3000,TRUE,FALSE,failure
+Transparent,244.48,Surrounding,3000,FALSE,TRUE,failure
+Transparent,244.48,Surrounding,3000,FALSE,FALSE,failure
+Transparent,244.48,Surrounding,5500,TRUE,TRUE,success
+Transparent,244.48,Surrounding,5500,TRUE,FALSE,failure
+Transparent,244.48,Surrounding,5500,FALSE,TRUE,failure
+Transparent,244.48,Surrounding,5500,FALSE,FALSE,success
+Transparent,244.48,Surrounding,6500,TRUE,TRUE,success
+Transparent,244.48,Surrounding,6500,TRUE,FALSE,failure
+Transparent,244.48,Surrounding,6500,FALSE,TRUE,failure
+Transparent,244.48,Surrounding,6500,FALSE,FALSE,success
+Transparent,244.48,Surrounding,9000,TRUE,TRUE,success
+Transparent,244.48,Surrounding,9000,TRUE,FALSE,failure
+Transparent,244.48,Surrounding,9000,FALSE,TRUE,failure
+Transparent,244.48,Surrounding,9000,FALSE,FALSE,success
+Transparent,244.48,White,1000,TRUE,TRUE,success
+Transparent,244.48,White,1000,TRUE,FALSE,failure
+Transparent,244.48,White,1000,FALSE,TRUE,failure
+Transparent,244.48,White,1000,FALSE,FALSE,success
+Transparent,244.48,White,3000,TRUE,TRUE,failure
+Transparent,244.48,White,3000,TRUE,FALSE,failure
+Transparent,244.48,White,3000,FALSE,TRUE,failure
+Transparent,244.48,White,3000,FALSE,FALSE,failure
+Transparent,244.48,White,5500,TRUE,TRUE,success
+Transparent,244.48,White,5500,TRUE,FALSE,failure
+Transparent,244.48,White,5500,FALSE,TRUE,failure
+Transparent,244.48,White,5500,FALSE,FALSE,success
+Transparent,244.48,White,6500,TRUE,TRUE,success
+Transparent,244.48,White,6500,TRUE,FALSE,failure
+Transparent,244.48,White,6500,FALSE,TRUE,failure
+Transparent,244.48,White,6500,FALSE,FALSE,success
+Transparent,244.48,White,9000,TRUE,TRUE,success
+Transparent,244.48,White,9000,TRUE,FALSE,failure
+Transparent,244.48,White,9000,FALSE,TRUE,failure
+Transparent,244.48,White,9000,FALSE,FALSE,success
+Transparent,244.48,Striped,1000,TRUE,TRUE,success
+Transparent,244.48,Striped,1000,TRUE,FALSE,failure
+Transparent,244.48,Striped,1000,FALSE,TRUE,failure
+Transparent,244.48,Striped,1000,FALSE,FALSE,success
+Transparent,244.48,Striped,3000,TRUE,TRUE,failure
+Transparent,244.48,Striped,3000,TRUE,FALSE,failure
+Transparent,244.48,Striped,3000,FALSE,TRUE,failure
+Transparent,244.48,Striped,3000,FALSE,FALSE,failure
+Transparent,244.48,Striped,5500,TRUE,TRUE,success
+Transparent,244.48,Striped,5500,TRUE,FALSE,failure
+Transparent,244.48,Striped,5500,FALSE,TRUE,failure
+Transparent,244.48,Striped,5500,FALSE,FALSE,success
+Transparent,244.48,Striped,6500,TRUE,TRUE,success
+Transparent,244.48,Striped,6500,TRUE,FALSE,failure
+Transparent,244.48,Striped,6500,FALSE,TRUE,failure
+Transparent,244.48,Striped,6500,FALSE,FALSE,success
+Transparent,244.48,Striped,9000,TRUE,TRUE,success
+Transparent,244.48,Striped,9000,TRUE,FALSE,failure
+Transparent,244.48,Striped,9000,FALSE,TRUE,failure
+Transparent,244.48,Striped,9000,FALSE,FALSE,success
+Transparent,244.48,Absent,1000,TRUE,TRUE,success
+Transparent,244.48,Absent,1000,TRUE,FALSE,failure
+Transparent,244.48,Absent,1000,FALSE,TRUE,failure
+Transparent,244.48,Absent,1000,FALSE,FALSE,success
+Transparent,244.48,Absent,3000,TRUE,TRUE,failure
+Transparent,244.48,Absent,3000,TRUE,FALSE,failure
+Transparent,244.48,Absent,3000,FALSE,TRUE,failure
+Transparent,244.48,Absent,3000,FALSE,FALSE,failure
+Transparent,244.48,Absent,5500,TRUE,TRUE,success
+Transparent,244.48,Absent,5500,TRUE,FALSE,failure
+Transparent,244.48,Absent,5500,FALSE,TRUE,failure
+Transparent,244.48,Absent,5500,FALSE,FALSE,success
+Transparent,244.48,Absent,6500,TRUE,TRUE,success
+Transparent,244.48,Absent,6500,TRUE,FALSE,failure
+Transparent,244.48,Absent,6500,FALSE,TRUE,failure
+Transparent,244.48,Absent,6500,FALSE,FALSE,success
+Transparent,244.48,Absent,9000,TRUE,TRUE,success
+Transparent,244.48,Absent,9000,TRUE,FALSE,failure
+Transparent,244.48,Absent,9000,FALSE,TRUE,failure
+Transparent,244.48,Absent,9000,FALSE,FALSE,success
+Transparent,122.24,Black,1000,TRUE,TRUE,failure
+Transparent,122.24,Black,1000,TRUE,FALSE,failure
+Transparent,122.24,Black,1000,FALSE,TRUE,failure
+Transparent,122.24,Black,1000,FALSE,FALSE,failure
+Transparent,122.24,Black,3000,TRUE,TRUE,failure
+Transparent,122.24,Black,3000,TRUE,FALSE,failure
+Transparent,122.24,Black,3000,FALSE,TRUE,failure
+Transparent,122.24,Black,3000,FALSE,FALSE,failure
+Transparent,122.24,Black,5500,TRUE,TRUE,failure
+Transparent,122.24,Black,5500,TRUE,FALSE,failure
+Transparent,122.24,Black,5500,FALSE,TRUE,failure
+Transparent,122.24,Black,5500,FALSE,FALSE,failure
+Transparent,122.24,Black,6500,TRUE,TRUE,failure
+Transparent,122.24,Black,6500,TRUE,FALSE,failure
+Transparent,122.24,Black,6500,FALSE,TRUE,failure
+Transparent,122.24,Black,6500,FALSE,FALSE,failure
+Transparent,122.24,Black,9000,TRUE,TRUE,failure
+Transparent,122.24,Black,9000,TRUE,FALSE,failure
+Transparent,122.24,Black,9000,FALSE,TRUE,failure
+Transparent,122.24,Black,9000,FALSE,FALSE,failure
+Transparent,122.24,Surrounding,1000,TRUE,TRUE,failure
+Transparent,122.24,Surrounding,1000,TRUE,FALSE,failure
+Transparent,122.24,Surrounding,1000,FALSE,TRUE,failure
+Transparent,122.24,Surrounding,1000,FALSE,FALSE,failure
+Transparent,122.24,Surrounding,3000,TRUE,TRUE,failure
+Transparent,122.24,Surrounding,3000,TRUE,FALSE,failure
+Transparent,122.24,Surrounding,3000,FALSE,TRUE,failure
+Transparent,122.24,Surrounding,3000,FALSE,FALSE,failure
+Transparent,122.24,Surrounding,5500,TRUE,TRUE,failure
+Transparent,122.24,Surrounding,5500,TRUE,FALSE,failure
+Transparent,122.24,Surrounding,5500,FALSE,TRUE,failure
+Transparent,122.24,Surrounding,5500,FALSE,FALSE,failure
+Transparent,122.24,Surrounding,6500,TRUE,TRUE,failure
+Transparent,122.24,Surrounding,6500,TRUE,FALSE,failure
+Transparent,122.24,Surrounding,6500,FALSE,TRUE,failure
+Transparent,122.24,Surrounding,6500,FALSE,FALSE,failure
+Transparent,122.24,Surrounding,9000,TRUE,TRUE,failure
+Transparent,122.24,Surrounding,9000,TRUE,FALSE,failure
+Transparent,122.24,Surrounding,9000,FALSE,TRUE,failure
+Transparent,122.24,Surrounding,9000,FALSE,FALSE,failure
+Transparent,122.24,White,1000,TRUE,TRUE,failure
+Transparent,122.24,White,1000,TRUE,FALSE,failure
+Transparent,122.24,White,1000,FALSE,TRUE,failure
+Transparent,122.24,White,1000,FALSE,FALSE,failure
+Transparent,122.24,White,3000,TRUE,TRUE,failure
+Transparent,122.24,White,3000,TRUE,FALSE,failure
+Transparent,122.24,White,3000,FALSE,TRUE,failure
+Transparent,122.24,White,3000,FALSE,FALSE,failure
+Transparent,122.24,White,5500,TRUE,TRUE,failure
+Transparent,122.24,White,5500,TRUE,FALSE,failure
+Transparent,122.24,White,5500,FALSE,TRUE,failure
+Transparent,122.24,White,5500,FALSE,FALSE,failure
+Transparent,122.24,White,6500,TRUE,TRUE,failure
+Transparent,122.24,White,6500,TRUE,FALSE,failure
+Transparent,122.24,White,6500,FALSE,TRUE,failure
+Transparent,122.24,White,6500,FALSE,FALSE,failure
+Transparent,122.24,White,9000,TRUE,TRUE,failure
+Transparent,122.24,White,9000,TRUE,FALSE,failure
+Transparent,122.24,White,9000,FALSE,TRUE,failure
+Transparent,122.24,White,9000,FALSE,FALSE,failure
+Transparent,122.24,Striped,1000,TRUE,TRUE,failure
+Transparent,122.24,Striped,1000,TRUE,FALSE,failure
+Transparent,122.24,Striped,1000,FALSE,TRUE,failure
+Transparent,122.24,Striped,1000,FALSE,FALSE,failure
+Transparent,122.24,Striped,3000,TRUE,TRUE,failure
+Transparent,122.24,Striped,3000,TRUE,FALSE,failure
+Transparent,122.24,Striped,3000,FALSE,TRUE,failure
+Transparent,122.24,Striped,3000,FALSE,FALSE,failure
+Transparent,122.24,Striped,5500,TRUE,TRUE,failure
+Transparent,122.24,Striped,5500,TRUE,FALSE,failure
+Transparent,122.24,Striped,5500,FALSE,TRUE,failure
+Transparent,122.24,Striped,5500,FALSE,FALSE,failure
+Transparent,122.24,Striped,6500,TRUE,TRUE,failure
+Transparent,122.24,Striped,6500,TRUE,FALSE,failure
+Transparent,122.24,Striped,6500,FALSE,TRUE,failure
+Transparent,122.24,Striped,6500,FALSE,FALSE,failure
+Transparent,122.24,Striped,9000,TRUE,TRUE,failure
+Transparent,122.24,Striped,9000,TRUE,FALSE,failure
+Transparent,122.24,Striped,9000,FALSE,TRUE,failure
+Transparent,122.24,Striped,9000,FALSE,FALSE,failure
+Transparent,122.24,Absent,1000,TRUE,TRUE,failure
+Transparent,122.24,Absent,1000,TRUE,FALSE,failure
+Transparent,122.24,Absent,1000,FALSE,TRUE,failure
+Transparent,122.24,Absent,1000,FALSE,FALSE,failure
+Transparent,122.24,Absent,3000,TRUE,TRUE,failure
+Transparent,122.24,Absent,3000,TRUE,FALSE,failure
+Transparent,122.24,Absent,3000,FALSE,TRUE,failure
+Transparent,122.24,Absent,3000,FALSE,FALSE,failure
+Transparent,122.24,Absent,5500,TRUE,TRUE,failure
+Transparent,122.24,Absent,5500,TRUE,FALSE,failure
+Transparent,122.24,Absent,5500,FALSE,TRUE,failure
+Transparent,122.24,Absent,5500,FALSE,FALSE,failure
+Transparent,122.24,Absent,6500,TRUE,TRUE,failure
+Transparent,122.24,Absent,6500,TRUE,FALSE,failure
+Transparent,122.24,Absent,6500,FALSE,TRUE,failure
+Transparent,122.24,Absent,6500,FALSE,FALSE,failure
+Transparent,122.24,Absent,9000,TRUE,TRUE,failure
+Transparent,122.24,Absent,9000,TRUE,FALSE,failure
+Transparent,122.24,Absent,9000,FALSE,TRUE,failure
+Transparent,122.24,Absent,9000,FALSE,FALSE,failure
